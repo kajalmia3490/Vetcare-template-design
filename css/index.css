@@ -1,0 +1,213 @@
+/* header start*/
+header {
+    padding: 0px 200px;
+    background-color: goldenrod;
+    height: 80px;
+}
+
+header .fa-dog {
+    font-size: 60px;
+}
+/* header end */
+
+/* banner start */
+main .banner {
+    padding: 0px 200px;
+    background-color: gold;
+}
+
+.banner-left .btn {
+    margin-right: 20px;
+}
+
+.banner .banner-right img {
+    width: 300px;
+    margin-left: 100px;
+}
+/* banner end */
+
+/* service-one start */
+.service-one {
+    padding: 100px 200px;
+}
+
+.service-one-left .btn {
+    background-color: gold;
+    color: white;
+}
+
+.service-one-right img {
+    width: 300px;
+}
+
+.service-one-right .box {
+    width: 150px;
+    height: 130px;
+    background-color: gold;
+    top: 175px;
+    right: 170px;
+    z-index: -1;
+}
+
+.service-one-right .box2 {
+    width: 300px;
+    height: 285px;
+    background-color: gold;
+    opacity: 0.7;
+    bottom: 17px;
+    top: 0px;
+}
+
+.service-one-right .play-btn {
+    width: 50px;
+    right: 40%;
+    top: 40%;
+}
+/* service-one end */
+
+/* service-two start */
+.service-two {
+    padding: 50px 200px;
+    background-color: gold;
+}
+
+.service-card .image-card img {
+    width: 300px;
+}
+/* service-two end */
+
+/* service-three start */
+.service-three {
+    padding: 100px 200px;
+}
+
+.service-three-left .injection-img {
+    width: 300px;
+}
+
+.service-three-left .box1 {
+    width: 150px;
+    height: 130px;
+    background-color: gold;
+    left: 170px;
+    top: 175px;
+    z-index: -1;
+}
+
+.service-three-left .box2 {
+    width: 300px;
+    height: 285px;
+    background-color: gold;
+    opacity: 0.7;
+    bottom: 0;
+    top: 0;
+}
+
+.service-three-left .play-btn {
+    width: 50px;
+    left: 45%;
+    top: 45%;
+}
+
+.service-three-right {
+    text-align: right;
+}
+
+.service-three-right .btn {
+    background-color: gold;
+    color: white;
+}
+/* service-three end */
+
+/* get-offer start */
+.get-offer {
+    padding: 80px 200px;
+    background-color: gold;
+}
+
+.dog-image-card .btn {
+    background-color: rgb(7, 197, 197);
+    font-size: 20px;
+}
+
+.dog-image-card img {
+    width: 300px;
+}
+/* get-offer end */
+
+/* vetcare-team */
+.vetcare-team {
+    padding: 100px 200px;
+    text-align: center;
+}
+
+.vetcare-team h1 {
+    font-size: 60px;
+}
+
+.doctor-image img {
+    width: 300px;
+}
+
+.doctor-image .icons a i {
+    padding: 10px 12px;
+    border-radius: 50%;
+    background-color: gold;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+/* vetcare-team */
+
+/* activity start */
+.activity {
+    /* padding: 50px 0px; */
+}
+
+.activity img {
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.activity .cover-box {
+    height: 538px;
+    background-color: gold;
+    opacity: 0.7;
+}
+
+.activity-icons {
+    top: 40%;
+}
+
+.icon img {
+    width: 170px;
+    padding-right: 100px;
+}
+
+.activity-icons .icon .mt {
+    padding-top: 100px;
+}
+/* activity end */
+
+/* recent start */
+.recent {
+    padding: 100px 200px;
+}
+
+.recent-card .recent-women {
+    width: 260px;
+}
+
+.recent-women img {
+    width: 250px;
+}
+/* recent end */
+
+/* footer start */
+footer {
+    padding: 100px 200px;
+}
+/* footer end */
